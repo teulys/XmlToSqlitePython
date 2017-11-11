@@ -1,0 +1,16 @@
+<bible translation="Basic English">
+<testament name="New">
+   <book name="São Mateus">
+        <chapter number="1">
+            <verse number="1">Genealogia de Jesus Cristo, filho de Davi, filho de Abraão.</verse>
+            <verse number="2">Abraão gerou Isaac. Isaac gerou Jacó. Jacó gerou Judá e seus irmãos.</verse>
+            <verse number="3">Judá gerou, de Tamar, Farés e Zara. Farés gerou Esron. Esron gerou Arão.</verse>
+        </chapter>
+        <chapter number="2">
+            <verse number="1">Tendo, pois, Jesus nascido em Belém de Judá, no tempo do rei Herodes, eis que magos vieram do oriente a Jerusalém.</verse>
+            <verse number="2">Perguntaram eles: Onde está o rei dos judeus que acaba de nascer? Vimos a sua estrela no oriente e viemos adorá-lo.</verse>
+            <verse number="3">A esta notícia, o rei Herodes ficou perturbado e toda Jerusalém com ele.</verse>
+        </chapter>
+    </book>
+</testament>
+</bible>
